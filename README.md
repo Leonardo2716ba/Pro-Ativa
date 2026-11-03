@@ -16,8 +16,8 @@ Este material foi desenvolvido como parte das atividades de ensino e pesquisa em
 | **02** | Aula 2 - Primeira simulação | [Assistir no YouTube](https://youtu.be/VFdVK8f9Q0A) | 🟢 Disponível |
 | **03** | Aula 3 - Mais sobre controladores | [Assistir no YouTube](https://youtu.be/EQzjYMp2MEg) | 🟢 Disponível |
 | **04** | Aula 4 - Modificando o ambiente | [Assistir no YouTube](https://youtu.be/euTb9rZo8Ig) | 🟢 Disponível |
-| **05** | Aula 5 - Fundamentos de Aprendizado por Reforço | — | 🟡 Em breve |
-| **06** | Aula 6 - Treinamento do Agente no Simulador | — | 🟡 Em breve |
+| **05** | Aula 5 - Aparência do Ambiente | — | 🟡 Em breve |
+| **06** | Aula 6 - Aprendizado por Reforço e Q-Learning | — | 🟡 Em breve |
 
 ---
 
