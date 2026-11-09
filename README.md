@@ -31,13 +31,12 @@ Este material foi desenvolvido como parte das atividades de ensino e pesquisa em
 
 | Aula | Descrição | Slides | Vídeo |
 | :---: | :--- | :---: | :---: |
-
-| **01** | Aula 1 - Introdução às Simulações Computacionais e Webots | [PDF](01_instalacao.pdf) | [Assistir no YouTube](https://youtu.be/7o1xTCDoiL4) 
-| **02** | Aula 2 - Modelagem e Modificação do Ambiente | [PDF](02_primeira_simulacao.pdf) | [Assistir no YouTube](https://youtu.be/VFdVK8f9Q0A) 
-| **03** | Aula 3 - Sensores, Atuadores e Controladores | [PDF](03_controladores.pdf) | [Assistir no YouTube](https://youtu.be/euTb9rZo8Ig) 
-| **04** | Aula 4 - Navegação e Controle do Robô | [PDF](04_ambiente.pdf) | [Assistir no YouTube](https://youtu.be/EQzjYMp2MEg) 
-| **05** | Aula 5 - Aparência de objetos | [PDF](05_aparencia.pdf) | [Assistir no YouTube](https://youtu.be/kXElJ9QB3HI) | 
-| **06** | Aula 6 - Treinamento do Q-Learning | [PDF](06_QLearning.pdf) | 🟡 Vídeo em breve (slides disponíveis) |
+| **01** | Aula 1 - Introdução às Simulações Computacionais e Webots | [PDF](01_instalacao.pdf) | [Assistir no YouTube](https://youtu.be/7o1xTCDoiL4) |
+| **02** | Aula 2 - Modelagem e Modificação do Ambiente | [PDF](02_primeira_simulacao.pdf) | [Assistir no YouTube](https://youtu.be/VFdVK8f9Q0A) |
+| **03** | Aula 3 - Sensores, Atuadores e Controladores | [PDF](03_controladores.pdf) | [Assistir no YouTube](https://youtu.be/euTb9rZo8Ig) |
+| **04** | Aula 4 - Navegação e Controle do Robô | [PDF](04_ambiente.pdf) | [Assistir no YouTube](https://youtu.be/EQzjYMp2MEg) |
+| **05** | Aula 5 - Aparência de objetos | [PDF](05_aparencia.pdf) | [Assistir no YouTube](https://youtu.be/kXElJ9QB3HI) |
+| **06** | Aula 6 - Treinamento do Q-Learning | [PDF](06_QLearning.pdf) | 🟡 Vídeo em breve |
 
 <p align="center">
   <img src="Imagens/screen_playlist_yt.png" alt="Playlist das videoaulas no YouTube" width="700">
