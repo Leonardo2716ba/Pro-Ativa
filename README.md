@@ -29,14 +29,14 @@ Este material foi desenvolvido como parte das atividades de ensino e pesquisa em
 
 ## 🎥 Videoaulas
 
-| Aula | Descrição | Slides | Vídeo | Status |
-| :---: | :--- | :---: | :---: | :---: |
-| **01** | Aula 1 - Introdução às Simulações Computacionais e Webots | [PDF](01_instalacao.pdf) | [Assistir no YouTube](https://youtu.be/7o1xTCDoiL4) | 🟢 Disponível |
-| **02** | Aula 2 - Modelagem e Modificação do Ambiente | [PDF](02_primeira_simulacao.pdf) | [Assistir no YouTube](https://youtu.be/VFdVK8f9Q0A) | 🟢 Disponível |
-| **03** | Aula 3 - Sensores, Atuadores e Controladores | [PDF](03_controladores.pdf) | [Assistir no YouTube](https://youtu.be/euTb9rZo8Ig) | 🟢 Disponível |
-| **04** | Aula 4 - Navegação e Controle do Robô | [PDF](04_ambiente.pdf) | [Assistir no YouTube](https://youtu.be/EQzjYMp2MEg) | 🟢 Disponível |
-| **05** | Aula 5 - Aparência de objetos | [PDF](05_aparencia.pdf) | [Assistir no YouTube](COLOQUE_O_LINK_AQUI) | 🟢 Disponível |
-| **06** | Aula 6 - Treinamento do Q-Learning | [PDF](06_QLearning.pdf) | — | 🟡 Vídeo em breve (slides disponíveis) |
+| Aula | Descrição | Slides | Vídeo |
+| :---: | :--- | :---: | :---: |
+| **01** | Aula 1 - Introdução às Simulações Computacionais e Webots | [PDF](01_instalacao.pdf) | [Assistir no YouTube](https://youtu.be/7o1xTCDoiL4) 
+| **02** | Aula 2 - Modelagem e Modificação do Ambiente | [PDF](02_primeira_simulacao.pdf) | [Assistir no YouTube](https://youtu.be/VFdVK8f9Q0A) 
+| **03** | Aula 3 - Sensores, Atuadores e Controladores | [PDF](03_controladores.pdf) | [Assistir no YouTube](https://youtu.be/euTb9rZo8Ig) 
+| **04** | Aula 4 - Navegação e Controle do Robô | [PDF](04_ambiente.pdf) | [Assistir no YouTube](https://youtu.be/EQzjYMp2MEg) 
+| **05** | Aula 5 - Aparência de objetos | [PDF](05_aparencia.pdf) | [Assistir no YouTube](https://youtu.be/kXElJ9QB3HI) | 
+| **06** | Aula 6 - Treinamento do Q-Learning | [PDF](06_QLearning.pdf) | 🟡 Vídeo em breve (slides disponíveis) |
 
 <p align="center">
   <img src="Imagens/screen_playlist_yt.png" alt="Playlist das videoaulas no YouTube" width="700">
@@ -48,13 +48,13 @@ Este material foi desenvolvido como parte das atividades de ensino e pesquisa em
 
 ### Robô e-puck
 
-| e-puck (vista 1) | e-puck (vista 2) | Sensores do e-puck |
+| e-puck | adicionando e-puck | Sensores do e-puck |
 | :---: | :---: | :---: |
 | <img src="Imagens/epuck_0.png" alt="e-puck" width="250"> | <img src="Imagens/epuck_1.png" alt="e-puck" width="250"> | <img src="Imagens/epuck_sensores.png" alt="Sensores do e-puck" width="250"> |
 
 ### Outros robôs e conceitos
 
-| Robô Spot | Ciclo do agente (Aula 6) |
+| Manipulação de Iluminação | Ciclo do agente (Aula 6) |
 | :---: | :---: |
 | <img src="Imagens/spot_5.png" alt="Robô Spot na Aula 5" width="350"> | <img src="Imagens/ciclo_agente_aula_6.png" alt="Ciclo do agente em Aprendizado por Reforço" width="350"> |
 
